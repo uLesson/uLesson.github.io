@@ -197,6 +197,10 @@ table{
   font-size: 25px;
   color: black;
 }
+.videoyt {
+  display: block;
+  margin: 0 auto;
+}
 @media screen and (max-device-width: 768px) {
 .navmenu a:not(:first-child){
   display: none;
