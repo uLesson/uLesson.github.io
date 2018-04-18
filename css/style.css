@@ -201,6 +201,14 @@ iframe{
   display: block;
   margin: 0 auto;
 }
+.error{
+  background-color: #FF6347;
+  width: 100% auto;
+  height: 100% auto;
+}
+.error_text{
+  font-size: 30px;
+}
 @media screen and (max-device-width: 768px) {
 .navmenu a:not(:first-child){
   display: none;
