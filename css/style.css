@@ -208,6 +208,7 @@ iframe{
 }
 .error_text{
   font-size: 30px;
+  height: auto;
 }
 @media screen and (max-device-width: 768px) {
 .navmenu a:not(:first-child){
